@@ -1,0 +1,10 @@
+ Volume in drive C is SymSOE
+ Volume Serial Number is C08B-22E3
+
+ Directory of C:\Users\vivek_kumar\Documents\GitHub\myproject
+
+06/21/2019  11:18 AM    <DIR>          .
+06/21/2019  11:18 AM    <DIR>          ..
+06/21/2019  11:18 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  203,416,104,960 bytes free
